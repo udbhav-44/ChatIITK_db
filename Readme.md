@@ -14,6 +14,18 @@ Datasets Planned for:
 - [X] Constitution 
 - [ ] Inter IIT reports
 - [ ] Inter IIT Problem Statements
+  - [X] TM 12.0
+  - [ ] TM 11.0
+  - [ ] TM 10.0
+- [ ] GC Problem Statements
+  - [ ] Takneek
+    - [ ] 23-24
+    - [ ] 22-23
+    - [ ] 21-22
+  - [ ] Rivayat
+    - [ ] 23-24
+  - [ ] Galaxy
+  
 - [ ] Pre Term Reports 
 	- [ ] Councils 
 	- [ ] Presidents Office
